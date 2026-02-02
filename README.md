@@ -70,6 +70,8 @@ The dashboard provides insights into:
 - Attendance trends before resignation
 - Geographic distribution using interactive maps
 - Custom filter panel for flexible analysis
+- custom AI agent
+- -custom search by department
 
 ---
 
@@ -87,8 +89,8 @@ These insights can support HR teams in improving employee engagement and workfor
 
 ## 📁 Project Files
 
-- HR_Dashboard.pbix → Main Power BI dashboard file
-- screenshots/ → Dashboard and model previews (if available)
+- AnasWork.pbix → Main Power BI dashboard file
+
 
 ---
 
@@ -103,6 +105,18 @@ These insights can support HR teams in improving employee engagement and workfor
 ---
 
 ## 📷 Project Preview
+![HOMEPAGE](https://github.com/user-attachments/assets/15a20541-9b48-4f53-8c9f-f1d80ee91807)
+![companyoverview](https://github.com/user-attachments/assets/3b39a9ec-2797-46c4-a209-b99ef26b7387)
+![companyoverview2(bookmark)](https://github.com/user-attachments/assets/d87ce43e-eb33-420a-9c49-2b5ba516b28d)
+![companyoverview3(bookmark)](https://github.com/user-attachments/assets/e3cd7062-00bc-4b10-9668-063cc60c5936)
+![AI agent](https://github.com/user-attachments/assets/bef50d1b-d039-4958-a8e0-5801801a8ac3)
+![Search page by department](https://github.com/user-attachments/assets/6d0b5c6e-8838-4b5d-82ad-521ceb46e49e)
+
+
+
+
+
+
 
 
 
@@ -110,8 +124,10 @@ These insights can support HR teams in improving employee engagement and workfor
 
 ## 📬 Contact
 
-LinkedIn: (Put your LinkedIn link here)  
-GitHub: (Put your GitHub profile here)
+LinkedIn: https://www.linkedin.com/in/anas-elsaeed-19b429311?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+
+linkedin post: https://www.linkedin.com/posts/anas-elsaeed-19b429311_powerbi-dashboard-dataanalysis-activity-7398162523268734977-nqaN?utm_source=share&utm_medium=member_ios&rcm=ACoAAE9DX8cB6Cddtn2NEpZfxL8OaZnGJvOgSSo
 
 ---
 
